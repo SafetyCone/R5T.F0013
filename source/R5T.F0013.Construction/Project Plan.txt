@@ -1,0 +1,3 @@
+R5T.F0013.Construction - Construction project for Add-simple functionality, with typed annotation and using AddNodeResult for Roslyn syntax elements..
+
+GOALS:
